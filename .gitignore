@@ -1,5 +1,9 @@
 projects/Images/
+projects/images/
 projects/encoded_images_ch3.csv
+
+# Local chapter examples and study material; excluded from the portfolio.
+/study_notebooks/
 
 .venv/
 __pycache__/

@@ -1,7 +1,7 @@
 [project]
 name = "handsongenai"
 version = "0.1.0"
-description = "Hands-On Generative AI notebook examples and projects"
+description = "Project portfolio based on Hands-On Generative AI"
 readme = "README.md"
 requires-python = ">=3.10.19,<3.11"
 dependencies = [
