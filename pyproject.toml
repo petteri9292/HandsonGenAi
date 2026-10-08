@@ -25,6 +25,7 @@ dependencies = [
     "torchvision==0.21.0",
     "tqdm>=4.67,<5",
     "transformers>=4.56,<4.57",
+    "trl>=0.29.1",
 ]
 
 [tool.uv]

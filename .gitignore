@@ -1,6 +1,8 @@
 projects/Images/
 projects/images/
 projects/encoded_images_ch3.csv
+projects/document_embeddings.csv
+
 
 # Local chapter examples and study material; excluded from the portfolio.
 /study_notebooks/
