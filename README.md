@@ -11,6 +11,8 @@ projects will be added as I progress through the book.
 | --- | --- | --- |
 | [Custom Text Generation](projects/custom_text_generation.ipynb) | Custom generation loop for Qwen2-0.5B with greedy decoding, random sampling, and top-k sampling. | 2 |
 | [CLIP Image Search](projects/clip_image_search.ipynb) | Text-to-image and image-to-image search using CLIP embeddings and cosine similarity. | 3 |
+| [Gradio Diffusion Demo](projects/gradio_diffusion_demo.ipynb) | Simple Gradio interface for generating images with Stable Diffusion v1.5, with controls for prompts, inference steps, and guidance scale. | — |
+| [Retrieval-Augmented Generation (RAG)](projects/rag.ipynb) | Question answering using MiniLM sentence embeddings, cosine similarity retrieval, and Qwen3-0.6B. | — |
 
 **Built with:** Python, PyTorch, and Hugging Face Transformers.
 
